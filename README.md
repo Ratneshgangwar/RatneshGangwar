@@ -16,9 +16,9 @@
 
 - 🎓 **Fresher** passionate about coding and ready to explore new opportunities
 - 📍 Based in **Greater Noida, India**
-- 🔭 I’m currently working on **Voting Awareness Portal & AI Image Generator**
-- 🌱 I’m currently learning **Advanced Web Development & Cloud Computing**
-- 👯 I’m looking to collaborate on **Open Source Projects**
+- 🔭 I'm currently working on **Voting Awareness Portal & AI Image Generator**
+- 🌱 I'm currently learning **Advanced Web Development & Cloud Computing**
+- 👯 I'm looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **MERN Stack, Java, DSA, Web Development**
 - 📫 How to reach me: **gangwarratnesh124@gmail.com**
 - 😄 Pronouns: **He/Him**
@@ -32,7 +32,6 @@
 | 🎨 AI Image Generator | Generate stunning AI images from text prompts | HTML, CSS, JavaScript |
 | 📚 Library Seat Allocation System | Manage seating arrangements in self-study library | HTML, CSS, JavaScript |
 | 📝 Notes Project | Add and remove notes dynamically with clean UI | JavaScript, HTML, CSS |
-| 💼 Portfolio Website | Personal portfolio showcasing my work | React, Tailwind CSS |
 | 🌐 Travel Buddy | Travel companion web application | JavaScript |
 
 ## 🛠️ Languages & Tools
@@ -57,7 +56,6 @@
 ### Programming Languages
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 </p>
 
 ### Tools & Others
@@ -104,13 +102,10 @@
   <a href="https://instagram.com/ratnesh_gangwar" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-  <a href="https://twitter.com/ratneshgangwar" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
   <a href="https://fb.com/ratnesh.gangwar" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
-  <a href="https://www.youtube.com/@ratneshraw11" target="blank">
+  <a href="https://youtube.com/@ratneshgangwar" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
   </a>
 </p>
@@ -123,7 +118,6 @@
 - [Notes Project](https://github.com/Ratneshgangwar/Notes-project) - Dynamic notes application
 - [Java Practice](https://github.com/Ratneshgangwar/Java-Practice) - Basic to advanced Java programs
 - [Travel Buddy](https://github.com/Ratneshgangwar/Travelbuddy) - Travel companion web app
-- [AI Image Generator](https://github.com/Ratneshgangwar/AI-Image-Generator) - Generate AI images from prompts
 
 ---
 
@@ -138,12 +132,6 @@
 If you like my work, please give it a ⭐ on GitHub!
 
 </div>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ratneshgangwar/Ratneshgangwar/output/snake.svg" alt="Snake animation" />
-</p>
 
 ---
 
