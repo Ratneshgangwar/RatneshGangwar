@@ -11,93 +11,116 @@
   <img src="https://img.shields.io/github/followers/ratneshgangwar?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
-<img align="right" alt="Coding" width="340" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=1200&q=85" alt="Developer working on a computer" width="100%" />
+</p>
 
 ## 🚀 About Me
 
-- 🎓 Computer Science Engineering graduate-in-progress at Sharda University.
+- 🎓 Computer Science Engineering student at Sharda University.
 - 💻 Full Stack Developer with a strong focus on frontend development.
-- 🌱 Currently improving my skills in React.js, JavaScript, backend development, and problem-solving.
-- 🔨 Building practical web applications with real-world features.
+- ⚛️ Experienced in building interactive web interfaces using React.js and JavaScript.
+- 🔧 Working with Node.js, Express.js, REST APIs, and MongoDB.
+- 🏥 Building real-world applications, including a clinic management platform.
+- 📚 Developing a library seat allocation and management system.
 - 🧩 Practicing Data Structures and Algorithms using Java.
-- 🤝 Interested in open-source contributions and collaborating with developers.
+- 🤝 Interested in open-source projects and collaborating with developers.
 - 🎯 Looking for opportunities to grow as a Software Developer.
 - 📍 Greater Noida, India.
 - 📫 Email: **gangwarratnesh124@gmail.com**
 
-<br clear="right"/>
+---
 
 ## 💼 Featured Projects
 
-### 🦷 1. Clinic Management System — Roots Dental Care
+### 🦷 1. Roots Dental & Cosmetic Clinic — Clinic Management System
 
-A clinic website and management platform designed to support patients and clinic administrators.
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1629909613654-28e377c37b09?auto=format&fit=crop&w=1200&q=85" alt="Modern dental clinic" width="100%" />
+</p>
+
+A full-stack clinic management platform designed to improve patient services, appointment scheduling, and clinic administration.
 
 **Key Features**
-- Patient and admin dashboards.
-- Authentication and OTP-based verification.
-- Patient management and appointment-related workflows.
-- Prescription image uploads.
-- Contact and query management for administrators.
-- Responsive website interface.
 
-**Tech Stack:** React.js, JavaScript, Node.js, Express.js, MongoDB.
+- **Doctor Dashboard:** View and manage appointments with dedicated Today, Upcoming, Past, and All filters.
+- **Patient Dashboard:** Access appointment information and manage upcoming visits.
+- **Appointment Management:** Support appointment scheduling, cancellation, and rescheduling workflows.
+- **Authentication:** Login flows and OTP-based verification.
+- **Patient Management:** View patient-related information and appointment details.
+- **Prescription Uploads:** Upload and manage prescription images.
+- **Admin Dashboard:** Manage patient-related information and review submitted contact queries.
+- **Communication:** SMS verification integration and clinic contact options.
+- **Responsive UI:** Designed for desktop and mobile users.
+- **Deployment:** React/Vite frontend, Node.js backend, and MongoDB database.
+
+**Tech Stack**
+
+`React.js` `JavaScript` `Node.js` `Express.js` `MongoDB` `REST APIs` `JWT` `CSS`
+
+🔗 **[View Clinic Management System on GitHub](https://github.com/Ratneshgangwar/Clinic-management-system)**
+
+🌐 **[Live Website](https://clinic-management-api-lxit.onrender.com)**
+
+> Note: The live URL above is the backend deployment. Replace it with your actual frontend website URL if you want visitors to open the clinic interface directly.
+
+---
 
 ### 📚 2. Drishti Library Management System
 
-A web-based self-study library management application that simplifies seat allocation and student management.
+A web-based self-study library management application designed to simplify student registration, seat allocation, and library administration.
 
 **Key Features**
-- Student registration and login.
-- Interactive seat map and seat request workflows.
-- Admin dashboard for seat allocation and management.
-- Student profile and details management.
-- Seat availability statistics, search, and filtering.
-- Student verification and administrative controls.
 
-**Tech Stack:** React.js, JavaScript, Node.js, Express.js, MongoDB, JWT.
+- Student registration, login, and profile management.
+- Seat allocation and deallocation workflows.
+- Admin dashboard for managing library seats and student records.
+- Seat availability and occupancy information.
+- Normal and special seat categories.
+- Administrative controls for managing seat assignments.
 
-🔗 **Repository:** [Drishti Library Management System](https://github.com/Ratneshgangwar/new-drishti-library)
+**Tech Stack**
+
+`React.js` `JavaScript` `Node.js` `Express.js` `MongoDB` `Mongoose`
+
+🔗 **[View Library Management Project](https://github.com/Ratneshgangwar/new-drishti-library)**
+
+---
 
 ### 🗳️ 3. Voting Awareness Portal
 
-A web application designed to help users understand voter eligibility and the voting process.
+A web application focused on voter education and helping users understand the voting process.
 
 **Key Features**
-- Voter awareness and educational content.
-- User authentication and registration.
+
+- Voter awareness and educational resources.
+- User registration and authentication.
 - Voter eligibility information.
 - Interactive dashboard and awareness features.
 
-**Tech Stack:** React.js, JavaScript, Firebase.
+**Tech Stack**
 
-🔗 **Repository:** [Voting Awareness Portal](https://github.com/Ratneshgangwar/Voting-Awareness-Portal)
+`React.js` `JavaScript` `Firebase`
 
-### 🎨 4. AI Image Generator
+🔗 **[View Voting Awareness Portal](https://github.com/Ratneshgangwar/Voting-Awareness-Portal)**
 
-A web application concept for generating images from text prompts.
+---
 
-**Key Features**
-- Simple and interactive user interface.
-- Prompt-based image generation workflow.
-- Responsive layout.
+### 📝 4. Notes Application
 
-**Tech Stack:** HTML, CSS, JavaScript.
-
-### 📝 5. Notes Application
-
-A lightweight web application for creating and managing notes.
+A lightweight web application for creating and managing notes through an interactive interface.
 
 **Key Features**
-- Add and remove notes dynamically.
-- Clean and user-friendly interface.
+
+- Create and remove notes dynamically.
+- Simple and intuitive user interface.
 - Interactive frontend functionality.
 
-**Tech Stack:** HTML, CSS, JavaScript.
+**Tech Stack**
 
-🔗 **Repository:** [Notes Project](https://github.com/Ratneshgangwar/Notes-project)
+`HTML5` `CSS3` `JavaScript`
 
-
+🔗 **[View Notes Project](https://github.com/Ratneshgangwar/Notes-project)**
 
 ---
 
@@ -106,43 +129,43 @@ A lightweight web application for creating and managing notes.
 ### Frontend Development
 
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" width="45" alt="HTML5"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" width="45" alt="CSS3"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=javascript" width="45" alt="JavaScript"/></a>
-  <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" width="45" alt="React"/></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" width="45" alt="Next.js"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" width="45" alt="Tailwind CSS"/></a>
-  <a href="https://getbootstrap.com/" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap" width="45" alt="Bootstrap"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" width="45" alt="HTML5"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" width="45" alt="CSS3"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" width="45" alt="JavaScript"/></a>
+  <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" width="45" alt="React"/></a>
+  <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" width="45" alt="Next.js"/></a>
+  <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" width="45" alt="Tailwind CSS"/></a>
+  <a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap" width="45" alt="Bootstrap"/></a>
 </p>
 
-### Backend Development & Databases
+### Backend & Databases
 
 <p align="left">
-  <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" width="45" alt="Node.js"/></a>
-  <a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express" width="45" alt="Express.js"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" width="45" alt="MongoDB"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" width="45" alt="MySQL"/></a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=firebase" width="45" alt="Firebase"/></a>
+  <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" width="45" alt="Node.js"/></a>
+  <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" width="45" alt="Express.js"/></a>
+  <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" width="45" alt="MongoDB"/></a>
+  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="45" alt="MySQL"/></a>
+  <a href="https://firebase.google.com/"><img src="https://skillicons.dev/icons?i=firebase" width="45" alt="Firebase"/></a>
 </p>
 
 ### Programming Languages
 
 <p align="left">
-  <a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java" width="45" alt="Java"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=javascript" width="45" alt="JavaScript"/></a>
-  <a href="https://en.cppreference.com/w/c" target="_blank"><img src="https://skillicons.dev/icons?i=c" width="45" alt="C"/></a>
+  <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" width="45" alt="Java"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" width="45" alt="JavaScript"/></a>
+  <a href="https://en.cppreference.com/w/c"><img src="https://skillicons.dev/icons?i=c" width="45" alt="C"/></a>
 </p>
 
-### Developer Tools & Platforms
+### Developer Tools
 
 <p align="left">
-  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" width="45" alt="Git"/></a>
-  <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub"/></a>
-  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" width="45" alt="VS Code"/></a>
-  <a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman" width="45" alt="Postman"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" width="45" alt="Docker"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" width="45" alt="Linux"/></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma" width="45" alt="Figma"/></a>
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="45" alt="Git"/></a>
+  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub"/></a>
+  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" width="45" alt="Visual Studio Code"/></a>
+  <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" width="45" alt="Postman"/></a>
+  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" width="45" alt="Docker"/></a>
+  <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" width="45" alt="Linux"/></a>
+  <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" width="45" alt="Figma"/></a>
 </p>
 
 ---
@@ -175,13 +198,13 @@ A lightweight web application for creating and managing notes.
 ## 📱 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/ratnesh-gangwar-23575a2a4/" target="_blank">
+  <a href="https://www.linkedin.com/in/ratnesh-gangwar-23575a2a4/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/Ratneshgangwar" target="_blank">
+  <a href="https://github.com/Ratneshgangwar">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
-  <a href="https://leetcode.com/u/ratnesh_2023/" target="_blank">
+  <a href="https://leetcode.com/u/ratnesh_2023/">
     <img src="https://img.shields.io/badge/LeetCode-Practice-orange?style=for-the-badge&logo=leetcode" alt="LeetCode"/>
   </a>
   <a href="mailto:gangwarratnesh124@gmail.com">
@@ -193,19 +216,19 @@ A lightweight web application for creating and managing notes.
 
 ## 📂 More Repositories
 
+- [Clinic Management System](https://github.com/Ratneshgangwar/Clinic-management-system)
+- [Drishti Library Management System](https://github.com/Ratneshgangwar/new-drishti-library)
+- [Voting Awareness Portal](https://github.com/Ratneshgangwar/Voting-Awareness-Portal)
 - [React.js Projects](https://github.com/Ratneshgangwar/ReactJs)
 - [Java Practice](https://github.com/Ratneshgangwar/Java-Practice)
-- [Voting Awareness Portal](https://github.com/Ratneshgangwar/Voting-Awareness-Portal)
-- [Drishti Library Management System](https://github.com/Ratneshgangwar/new-drishti-library)
 - [Notes Application](https://github.com/Ratneshgangwar/Notes-project)
-- [Travel Buddy](https://github.com/Ratneshgangwar/Travelbuddy)
 
 ---
 
 <p align="center">
   <b>💡 Learn. Build. Improve. Repeat.</b>
   <br/>
-  If you find my projects useful, consider giving them a ⭐
+  If you find my work useful, consider giving my repositories a ⭐
   <br/><br/>
   <b>Made with ❤️ by Ratnesh Gangwar</b>
 </p>
